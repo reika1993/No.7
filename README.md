@@ -1,6 +1,6 @@
 # ハンズオン：DockerによるMySQLの構築
 
-- Dockerをインストールを後、レポジトリをcloneしてMySQLの構築をしました。
+- Dockerをインストール後、レポジトリをcloneしてMySQLの構築をしました。
 - moviesテーブルに追加した映画名に誤字があったため修正しました。その際、id番号も採番し直しています。
 
 <img width="1440" alt="スクリーンショット 2023-12-14 23 20 12" src="https://github.com/reika1993/No.7/assets/150810798/8cc5f0a3-60be-4c7a-8c20-ff9f1e7bb8eb">
